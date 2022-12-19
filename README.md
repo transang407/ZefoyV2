@@ -1,6 +1,4 @@
 # ZefoyV2
-
-# ZefoyV2
 # Cách Setup Và Chạy File
  • git clone https://github.com/transang407/ZefoyV2
 
